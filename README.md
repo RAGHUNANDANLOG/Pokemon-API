@@ -1,10 +1,10 @@
 # Pokémon API 🏆  
 
-A **Node.js + Express** API for fetching, storing, and manipulating Pokémon data with features like pagination, search, and the ability to mark Pokémon as favorites. This API uses **PostgreSQL** for data storage and supports advanced filtering.  
+A **Node.js + Express** API for fetching, storing, and manipulating Pokémon data with features like pagination, search, and the ability to mark Pokémon as favorites. This API uses **MySQL** for data storage and supports advanced filtering.  
 
 ## 🚀 Features  
 
-✅ Fetch Pokémon data from an external API and store it in a PostgreSQL database.  
+✅ Fetch Pokémon data from an external API and store it in a MySQL database.  
 ✅ Retrieve Pokémon with pagination to efficiently manage large datasets.  
 ✅ Search Pokémon by name or type.  
 ✅ Filter and list favorite Pokémon.  
@@ -13,7 +13,7 @@ A **Node.js + Express** API for fetching, storing, and manipulating Pokémon dat
 ## 🛠️ Tech Stack  
 
 - **Backend:** Node.js, Express.js  
-- **Database:** PostgreSQL  
+- **Database:** MySQL  
 - **API Documentation:** Swagger  
 - **Language:** TypeScript  
 
